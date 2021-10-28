@@ -71,6 +71,7 @@
             <a href="usuario/home_user">usuario</a>
       <a href="adm/home_adm">administrador</a>
     </div>
+    <div> texto de prueba por git </div>
 
 
 </body>
