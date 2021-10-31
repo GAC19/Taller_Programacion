@@ -15,8 +15,9 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [proyecto::class, 'index']);
+Route::get('login', [proyecto::class, 'login']);
 
-Route::get('home', [proyecto::class, 'home']);
+// Route::get('home', [proyecto::class, 'home']);
 Route::get('cliente/create', [proyecto::class, 'create']);
 Route::get('cliente/micta', [proyecto::class, 'micta']);
 Route::get('cliente/compras',[proyecto::class, 'compras']);
