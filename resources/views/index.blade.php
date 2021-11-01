@@ -37,7 +37,7 @@
         
     </nav>
     <section>
-        <div><h2>Espotacion de Uvas</h2> <br>
+        <div><h2>Expotacion de Uvas</h2> <br>
         <p>La empresa frutas internacionales nos dedica a la exportación de uvas de mesa, 
             a distintos países. Donde seleccionamos y entregamos los mejores productos a nuestro 
             cliente y puedan disgustar los productos agrícola de Chile.</p></div><br>
@@ -75,7 +75,8 @@
           </p> </div>
           <div id="quehacemos" class="content">
               <p>SOMOS: <br><br>
-                Una Empresa que nos dedicamos a la su cocsecha, proceso y distribucion de los producto al nuestro cliente, las que mantenemos una diciplina y medidas extricta en los procesos: <br> <br>
+                Una Empresa que nos dedicamos a la su cocsecha, proceso y distribucion de los producto al nuestro cliente, las que mantenemos 
+                una diciplina y medidas extricta en los procesos: <br> <br>
                 1.- Ingresa el producto por parte del proveedor (subcontratista). <br>
                 2.- Producción: donde pasan por las tres áreas (selección y pesaje, embalaje y palletizaje) <br>
                 3.- Control de calidad: verifica si el producto a ofrecer cumple con los estándares dependiendo de su 
